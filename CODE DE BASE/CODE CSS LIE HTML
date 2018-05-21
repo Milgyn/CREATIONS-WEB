@@ -1,0 +1,49 @@
+p
+{
+    color: blue;
+}
+
+
+Schématiquement, une feuille de style CSS ressemble donc à cela :
+
+balise1
+{
+    propriete1: valeur1;
+    propriete2: valeur2;
+    propriete3: valeur3;
+}
+
+balise2
+{
+    propriete1: valeur1;
+    propriete2: valeur2;
+    propriete3: valeur3;
+    propriete4: valeur4;
+}
+
+balise3
+{
+    propriete1: valeur1;
+}
+
+
+h1
+{
+    color: blue;
+}
+
+em
+{
+    color: blue;
+}
+
+h1, em
+{
+    color: blue;
+}
+
+commentaires :
+p
+{
+    color: blue; /* Les paragraphes seront en bleu */
+}
